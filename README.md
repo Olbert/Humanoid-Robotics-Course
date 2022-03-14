@@ -20,17 +20,3 @@ This repository contains the exercises for the Humanoid Robots lecture.
 * [Exercise 15](src/15_inverse_kinematics/README.md): Inverse kinematics
 * [Exercise 16](src/16_rrt/README.md): Rapidly exploring Random Trees (RRT)
 * [Exercise 17](src/17_irm/README.md): Inverse reachability maps (IRM)
-
-
-## Results
-When you push your code to the GIT server, the server will automatically build, run, and test your code.
-
-After a few seconds, the results are available in the [project wiki](https://gitlab.igg.uni-bonn.de/hr-ss19/group-24/wikis/home).
-
-## Instructions for building the exercises on your own computer:
-
-* [Linux](https://gitlab.igg.uni-bonn.de/hr-ss19/group-24/wikis/installation-linux)
-* [Windows](https://gitlab.igg.uni-bonn.de/hr-ss19/group-24/wikis/installation-windows)
-* [Mac](https://gitlab.igg.uni-bonn.de/hr-ss19/group-24/wikis/installation-mac)
-
-
